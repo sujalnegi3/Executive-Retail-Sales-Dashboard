@@ -71,6 +71,7 @@ The objective of this dashboard is to help business leaders monitor sales perfor
 ---
 
 ## 📸 Dashboard Preview / Scrreenshot
+https://github.com/sujalnegi3/Executive-Retail-Sales-Dashboard/blob/main/Executive%20Retail%20Dashboard.pbit
 
 
 
